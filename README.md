@@ -1,4 +1,5 @@
-### Hi there 👋
+Our CRM project is a website that is built on Django. We are currently working on the front end of the WebSite (Named as the Autocrats Management)...
+
 
 <!--
 **09-THEAUTOCRATS/09-THEAUTOCRATS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
